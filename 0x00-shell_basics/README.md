@@ -1,1 +1,1 @@
-What is the scripts that prints the absolute path name of the current working directory?
+Display the current directory content in a long format
